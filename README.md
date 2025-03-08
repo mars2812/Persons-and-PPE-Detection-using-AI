@@ -60,3 +60,11 @@ Step 2: Start the Flask Web App
 python app.py
 
 Note: before running inference.py file make sure that you have run pascalVOLtoYOlO file and trainning both person detection model and PPE detection model 
+
+## Screen Shot
+
+![Screenshot 2025-03-08 122520](https://github.com/user-attachments/assets/118a318d-6e32-4026-bd8f-40f530d1b9a6)
+
+![Screenshot 2025-03-08 123339](https://github.com/user-attachments/assets/497c3297-2637-40bd-ae66-36568bb16477)
+
+
